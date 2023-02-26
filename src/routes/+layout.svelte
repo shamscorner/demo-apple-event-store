@@ -2,4 +2,8 @@
 	import '../app.css';
 </script>
 
-<slot />
+<div class="h-screen bg-blue-900 text-gray-100">
+	<main class="max-w-md mx-auto">
+		<slot />
+	</main>
+</div>
