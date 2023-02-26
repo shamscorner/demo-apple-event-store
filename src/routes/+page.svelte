@@ -17,7 +17,7 @@
 		<h1 class="text-2xl font-bold">
 			Meet with App Store experts
 		</h1>
-		<h2 class="font-semibold mt-2 text-gray-400">
+		<h2 class="mt-2 font-semibold text-gray-400">
 			February 28 to April 13, 2023
 		</h2>
 		<p>
@@ -40,7 +40,7 @@
 				href="https://developer.apple.com/events/view/"
 				target="_blank"
 				rel="noreferrer"
-				class="flex bg-gradient-to-t from-blue-600 to-blue-500 px-3 py-1 text-sm rounded-full items-center justify-center hover:from-blue-500 hover:to-blue-600 transition focus:outline-none focus:ring-4 focus:ring-blue-600"
+				class="flex items-center justify-center rounded-full bg-gradient-to-t from-blue-600 to-blue-500 px-3 py-1 text-sm transition hover:from-blue-500 hover:to-blue-600 focus:outline-none focus:ring-4 focus:ring-blue-600"
 			>
 				View schedule and register
 			</a>
